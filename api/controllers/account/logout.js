@@ -17,6 +17,8 @@ Note that this action does not check to see whether or not the requesting user w
 actually logged in.  (If they weren't, then this action is just a no-op.)`,
 
 
+
+
   exits: {
 
     success: {

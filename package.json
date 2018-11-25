@@ -19,8 +19,6 @@
     "@sailshq/eslint": "^4.19.3",
     "@sailshq/htmlhint": "^0.9.16",
     "@sailshq/lesshint": "^4.6.6",
-    "browser-sync": "^2.26.3",
-    "browser-sync-webpack-plugin": "^2.0.1",
     "cross-env": "^5.2.0",
     "grunt": "1.0.1",
     "laravel-mix": "^2.1.14",
