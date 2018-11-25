@@ -68,7 +68,7 @@
 /***/ "./resources/js/bundle.js":
 /***/ (function(module, exports) {
 
-console.log('bundling time');
+console.log('bundling time hebat s ddsdf hebat');
 
 /***/ }),
 

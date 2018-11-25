@@ -11,15 +11,15 @@ let mix = require('laravel-mix');
  |
  */
 var LiveReloadPlugin = require('webpack-livereload-plugin');
+var counter = 0;
 
 mix.js('resources/js/bundle.js', 'assets/js')
 .version()
 .setPublicPath('assets')
 
-
 mix.webpackConfig({
     plugins: [
-        new LiveReloadPlugin({delay : 1800})
+        new LiveReloadPlugin({delay : 1600})
     ]
 });
 
